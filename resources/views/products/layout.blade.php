@@ -8,7 +8,7 @@
 
 </head>
 <body>
-    <h1>Product Management</h1>
+    <h1 class="text-2xl font-bold text-center">Product Management</h1>
     <div class="container mt-5">
         <br>
         @yield('content')
